@@ -23,4 +23,4 @@ Theme for Openbox based on the Gruvbox Material colour scheme by [@sainnhe](http
 
 ### Regular version
 
-![gruv-openbox-reg](https://user-images.githubusercontent.com/9361126/182771051-0a2c6623-4a79-4797-8afe-0b96d9154bc9.png)
+![gruv-openbox-reg](https://user-images.githubusercontent.com/9361126/182771419-b1ab6c6f-908c-4fbf-b487-b8f269621b86.png)
