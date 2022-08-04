@@ -76,11 +76,11 @@ window.active.button.max.toggled.pressed.image.color: #6c782e
 window.active.button.max.toggled.hover.image.color: #a9b665
 
 # Inactive window
-window.inactive.border.color: #45403d
+window.inactive.border.color: #3c3836
 
 window.inactive.title.bg: flat solid
-window.inactive.title.bg.color: #45403d
-window.inactive.title.separator.color: #45403d
+window.inactive.title.bg.color: #3c3836
+window.inactive.title.separator.color: #3c3836
 window.inactive.client.color: #5a524c
 window.inactive.text.justify: center
 
@@ -91,7 +91,7 @@ window.inactive.handle.bg: flat solid
 window.inactive.handle.bg.color: #928374
 
 window.inactive.grip.bg: flat solid
-window.inactive.grip.bg.color: #45403d
+window.inactive.grip.bg.color: #3c3836
 
 window.inactive.button.unpressed.bg: parentrelative
 window.inactive.button.iconify.unpressed.image.color: #928374
