@@ -16,4 +16,11 @@ Theme for Openbox based on the Gruvbox Material colour scheme by [@sainnhe](http
 ```
 
 ## Screenshot
-![Screenshot](screenshot.png?raw=true)
+
+### Blocks version (window buttons as coloured squares)
+
+![gruv-openbox-blocks](https://user-images.githubusercontent.com/9361126/182770436-9299ac16-3812-4aed-92fb-cdd536fdd087.png)
+
+### Regular version
+
+![gruv-openbox-reg](https://user-images.githubusercontent.com/9361126/182771051-0a2c6623-4a79-4797-8afe-0b96d9154bc9.png)
