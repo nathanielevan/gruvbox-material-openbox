@@ -42,7 +42,7 @@ window.active.client.color: #32302f
 window.active.text.justify: center
 
 window.active.label.bg: parentrelative
-window.active.label.text.color: #d4be98
+window.active.label.text.color: #d8a657
 
 window.active.handle.bg: flat solid
 window.active.handle.bg.color: #d8a657
