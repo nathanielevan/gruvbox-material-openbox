@@ -76,11 +76,11 @@ window.active.button.max.toggled.pressed.image.color: #6c782e
 window.active.button.max.toggled.hover.image.color: #a9b665
 
 # Inactive window
-window.inactive.border.color: #3c3836
+window.inactive.border.color: #45403d
 
 window.inactive.title.bg: flat solid
-window.inactive.title.bg.color: #3c3836
-window.inactive.title.separator.color: #3c3836
+window.inactive.title.bg.color: #45403d
+window.inactive.title.separator.color: #45403d
 window.inactive.client.color: #5a524c
 window.inactive.text.justify: center
 
