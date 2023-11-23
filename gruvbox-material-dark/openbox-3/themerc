@@ -54,26 +54,40 @@ window.active.button.unpressed.bg: parentrelative
 window.active.button.iconify.unpressed.image.color: #d4be98
 window.active.button.max.unpressed.image.color: #d4be98
 window.active.button.close.unpressed.image.color: #d4be98
+window.active.button.desk.unpressed.image.color: #d4be98
+window.active.button.shade.unpressed.image.color: #d4be98
 
 window.active.button.pressed.bg: parentrelative
 window.active.button.iconify.pressed.image.color: #b47109
 window.active.button.max.pressed.image.color: #6c782e
 window.active.button.close.pressed.image.color: #c14a4a
+window.active.button.desk.pressed.image.color: #a89984
+window.active.button.shade.pressed.image.color: #a89984
 
 window.active.button.disabled.bg: parentrelative
 window.active.button.iconify.disabled.image.color: #32302f
 window.active.button.max.disabled.image.color: #32302f
 window.active.button.close.disabled.image.color: #32302f
+window.active.button.desk.disabled.image.color: #32302f
+window.active.button.shade.disabled.image.color: #32302f
 
 window.active.button.hover.bg: parentrelative
 window.active.button.iconify.hover.image.color: #d8a657
 window.active.button.max.hover.image.color: #a9b665
 window.active.button.close.hover.image.color: #ea6962
+window.active.button.desk.hover.image.color: #f9f5d7
+window.active.button.shade.hover.image.color: #f9f5d7
 
 window.active.button.toggled.bg: parentrelative
 window.active.button.max.toggled.unpressed.image.color: #d4be98
 window.active.button.max.toggled.pressed.image.color: #6c782e
 window.active.button.max.toggled.hover.image.color: #a9b665
+window.active.button.desk.toggled.unpressed.image.color: #d4be98
+window.active.button.desk.toggled.pressed.image.color: #a89984
+window.active.button.desk.toggled.hover.image.color: #f9f5d7
+window.active.button.shade.toggled.unpressed.image.color: #d4be98
+window.active.button.shade.toggled.pressed.image.color: #a89984
+window.active.button.shade.toggled.hover.image.color: #f9f5d7
 
 # Inactive window
 window.inactive.border.color: #45403d
@@ -97,26 +111,40 @@ window.inactive.button.unpressed.bg: parentrelative
 window.inactive.button.iconify.unpressed.image.color: #928374
 window.inactive.button.max.unpressed.image.color: #928374
 window.inactive.button.close.unpressed.image.color: #928374
+window.inactive.button.desk.unpressed.image.color: #928374
+window.inactive.button.shade.unpressed.image.color: #928374
 
 window.inactive.button.pressed.bg: parentrelative
 window.inactive.button.iconify.pressed.image.color: #b47109
 window.inactive.button.max.pressed.image.color: #6c782e
 window.inactive.button.close.pressed.image.color: #c14a4a
+window.inactive.button.desk.pressed.image.color: #7c6f64
+window.inactive.button.shade.pressed.image.color: #7c6f64
 
 window.inactive.button.disabled.bg: parentrelative
 window.inactive.button.iconify.disabled.image.color: #5a524c
 window.inactive.button.max.disabled.image.color: #5a524c
 window.inactive.button.close.disabled.image.color: #5a524c
+window.inactive.button.desk.disabled.image.color: #5a524c
+window.inactive.button.shade.disabled.image.color: #5a524c
 
 window.inactive.button.hover.bg: parentrelative
 window.inactive.button.iconify.hover.image.color: #d8a657
 window.inactive.button.max.hover.image.color: #a9b665
 window.inactive.button.close.hover.image.color: #ea6962
+window.inactive.button.desk.hover.image.color: #d4be98
+window.inactive.button.shade.hover.image.color: #d4be98
 
 window.inactive.button.toggled.bg: parentrelative
 window.inactive.button.max.toggled.unpressed.image.color: #928374
 window.inactive.button.max.toggled.pressed.image.color: #6c782e
 window.inactive.button.max.toggled.hover.image.color: #a9b665
+window.inactive.button.desk.toggled.unpressed.image.color: #928374
+window.inactive.button.desk.toggled.pressed.image.color: #7c6f64
+window.inactive.button.desk.toggled.hover.image.color: #d4be98
+window.inactive.button.shade.toggled.unpressed.image.color: #928374
+window.inactive.button.shade.toggled.pressed.image.color: #7c6f64
+window.inactive.button.shade.toggled.hover.image.color: #d4be98
 
 # OSD
 osd.border.width: 1
